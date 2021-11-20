@@ -1,0 +1,16 @@
+C:\Users\Weverton Fagner\Desktop\DIO\DIO.APPseries\obj\Debug\net5.0\DIO.APPseries.csproj.AssemblyReference.cache
+C:\Users\Weverton Fagner\Desktop\DIO\DIO.APPseries\obj\Debug\net5.0\DIO.APPseries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Weverton Fagner\Desktop\DIO\DIO.APPseries\obj\Debug\net5.0\DIO.APPseries.AssemblyInfoInputs.cache
+C:\Users\Weverton Fagner\Desktop\DIO\DIO.APPseries\obj\Debug\net5.0\DIO.APPseries.AssemblyInfo.cs
+C:\Users\Weverton Fagner\Desktop\DIO\DIO.APPseries\obj\Debug\net5.0\DIO.APPseries.csproj.CoreCompileInputs.cache
+C:\Users\Weverton Fagner\Desktop\DIO\DIO.APPseries\bin\Debug\net5.0\DIO.APPseries.exe
+C:\Users\Weverton Fagner\Desktop\DIO\DIO.APPseries\bin\Debug\net5.0\DIO.APPseries.deps.json
+C:\Users\Weverton Fagner\Desktop\DIO\DIO.APPseries\bin\Debug\net5.0\DIO.APPseries.runtimeconfig.json
+C:\Users\Weverton Fagner\Desktop\DIO\DIO.APPseries\bin\Debug\net5.0\DIO.APPseries.runtimeconfig.dev.json
+C:\Users\Weverton Fagner\Desktop\DIO\DIO.APPseries\bin\Debug\net5.0\DIO.APPseries.dll
+C:\Users\Weverton Fagner\Desktop\DIO\DIO.APPseries\bin\Debug\net5.0\ref\DIO.APPseries.dll
+C:\Users\Weverton Fagner\Desktop\DIO\DIO.APPseries\bin\Debug\net5.0\DIO.APPseries.pdb
+C:\Users\Weverton Fagner\Desktop\DIO\DIO.APPseries\obj\Debug\net5.0\DIO.APPseries.dll
+C:\Users\Weverton Fagner\Desktop\DIO\DIO.APPseries\obj\Debug\net5.0\ref\DIO.APPseries.dll
+C:\Users\Weverton Fagner\Desktop\DIO\DIO.APPseries\obj\Debug\net5.0\DIO.APPseries.pdb
+C:\Users\Weverton Fagner\Desktop\DIO\DIO.APPseries\obj\Debug\net5.0\DIO.APPseries.genruntimeconfig.cache
